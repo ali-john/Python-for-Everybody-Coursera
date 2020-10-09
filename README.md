@@ -1,3 +1,3 @@
 # Python-for-Everybody-Coursera
-Python for everybody (getting started with python) coursera assignment questions
-Coursera assignment questions from python basic course is being solved here.
+Python for everybody (getting started with python) and Python Data structures coursera assignment questions are solved. The text files used in these problems are also added.
+
